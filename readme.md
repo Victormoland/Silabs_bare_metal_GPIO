@@ -8,7 +8,7 @@ TIMER PWM on the Silicon Labs xG24 Dev Kit. Frequency and duty cycle are set in 
 |----------|-----|--------|
 | MOSFET (3.3 V push-pull) | PA7 | Right pad 10 |
 | Red LED (active-low) | PD2 | Left pad 13 |
-| Ground |  | Left pad 1 |
+| Ground | | Left pad 1 |
 
 Do not use pads 4 / 6 / 8 (onboard flash).
 
